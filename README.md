@@ -48,13 +48,13 @@ This project is deployed using **Streamlit**, allowing users to test the classif
 
 ## 📸 Output Screenshots  
 **1️⃣ Streamlit App Interface**  
-![App UI](Email_classifier.png)  
+![App UI](Emailclassifier.png)  
 
 **2️⃣ Example: Spam Email Prediction**  
-![Spam Prediction](spam_email.png)  
+![Spam Prediction](Spamemail.png)  
 
 **3️⃣ Example: Ham Email Prediction**  
-![Ham Prediction](ham_email.png)  
+![Ham Prediction](Hamemail.png)  
    
 
    
